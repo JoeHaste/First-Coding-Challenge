@@ -4,8 +4,8 @@
 
 # index.js contains the first challenge of a grade calculator
 
-# Author: Joseph Karanja
+# index1.js contains second challenge
 
-#index1.js contains second challenge
+# index2.js contains third challene
 
-#index2.js contains third challene
+# Author: Joseph Karanja, https://github.com/JoeHaste/First-Coding-Challenge
